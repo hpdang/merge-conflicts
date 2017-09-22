@@ -1,0 +1,15 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Atlants's ConnectHome
+  role: Volunteer
+  year: 2016 &mdash; Present
+  url: http://connecthome.atlantaga.gov/
+  summary: Developed and delivered a Git and GitHub training for secondary education students that created a resume that could use after finishing school.
+
+
+- organization: freeCodeCamp
+  role: Contributor
+  year: 2015 &mdash; Present
+  url: https://www.freecodecamp.org/
+  summary: Contributor to the Git, GraphQL, and CSS content found in the freeCodeCamp curriculum.
