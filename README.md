@@ -1,4 +1,4 @@
-# On Demand Merge Conflict Course 
+# On Demand Merge Conflict Course Repository
 
 *An introduction to merge conflicts that creates a simple Jekyll + GitHub Pages based on jglovier's [resume template](https://github.com/jglovier/resume-template/).*
 
@@ -23,8 +23,6 @@ First you'll want to fork the repo to your own account. Then clone it locally an
 
 Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
 
-[...write these out...]
-
 #### Editing content
 
 Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly
@@ -47,8 +45,8 @@ A feature roadmap is [available here](https://github.com/jglovier/resume-templat
 
 ## Contributing
 
-To contribute to the development of the On Demand course, visit the On Demand [repository](https://github.com/github/training-kit/). 
-To contribute to the resume template, visit the Resume Template [repository](https://github.com/jglovier/resume-template/).
+- To contribute to the development of the On Demand course, visit the On Demand [repository](https://github.com/github/training-kit/). 
+- To contribute to the resume template, visit the Resume Template [repository](https://github.com/jglovier/resume-template/).
 
 ## License
 
