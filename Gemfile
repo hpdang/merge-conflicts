@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'github-pages', '>= 150'
+gem 'github-pages', '>= 192'
